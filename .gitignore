@@ -1,5 +1,5 @@
-*.csv
-*.json
-*.js
-*.sh
-Makefile
+.csv
+.json
+.js
+.sh
+Makefile    
