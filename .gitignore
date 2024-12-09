@@ -1,0 +1,6 @@
+Makefile 
+*.csv
+*.json
+*.js
+*.sh
+out/
